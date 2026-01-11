@@ -1,9 +1,10 @@
 # CryptNote PHP Library
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/dolutech/cryptnote-php.svg?style=flat-square)](https://packagist.org/packages/dolutech/cryptnote-php)
-[![PHP Version](https://img.shields.io/packagist/php-v/dolutech/cryptnote-php.svg?style=flat-square)](https://packagist.org/packages/dolutech/cryptnote-php)
-[![License](https://img.shields.io/github/license/dolutech/cryptnote-php.svg?style=flat-square)](https://github.com/dolutech/cryptnote-php/blob/main/LICENSE)
-[![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/dolutech/cryptnote-php?style=flat-square&logo=coderabbit&logoColor=white)](https://coderabbit.ai)
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?style=flat-square)](https://github.com/dolutech/cryptnote-php/releases/tag/v0.1.0)
+[![PHP](https://img.shields.io/badge/php-%3E%3D8.0-8892BF.svg?style=flat-square)](https://php.net)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://github.com/dolutech/cryptnote-php/blob/main/LICENSE)
+[![Packagist](https://img.shields.io/badge/packagist-dolutech%2Fcryptnote--php-orange.svg?style=flat-square)](https://packagist.org/packages/dolutech/cryptnote-php)
+[![CodeRabbit](https://img.shields.io/coderabbit/prs/github/dolutech/cryptnote-php?style=flat-square&logo=coderabbit&logoColor=white&label=coderabbit)](https://coderabbit.ai)
 
 A standalone PHP library for creating encrypted, self-destructing messages with view limits and optional password protection. Based on the [CryptNote.pro](https://cryptnote.pro) encryption system.
 
